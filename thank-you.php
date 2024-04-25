@@ -48,7 +48,15 @@
     <link type="text/css" rel="stylesheet" href="assets/fonts/flaticon/font/flaticon.css">
     <link href="assets/src/css/lightbox.css" rel="stylesheet" />
     
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-319FBRFSQB"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
 
+    gtag('config', 'G-319FBRFSQB');
+    </script>
 
 
     <!-- Favicon icon -->
